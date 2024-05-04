@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bcc1c66bb2ec14ab791591a8bf43d353, type: 3}
+  m_Name: SpaceTemplate_1
+  m_EditorClassIdentifier: 
+  version: 0
+  sku: 65b42e5d03a522046d50f2cd
+  packageName: Gaby's Picnic v0.2
+  thumbnail: {fileID: 0}
+  savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
+    type: 2}
+  variants:
+  - name: Gaby's Picnic
+    id: f396309f77e44d1598f1dcbfe34eb388
+    scene: {fileID: 102900000, guid: 74b0fd945a4e8be47a5957fe76f9988b, type: 3}
+    thumbnail: {fileID: 2800000, guid: dd20fec4daf77304baced1efb8734eee, type: 3}
+    miniThumbnail: {fileID: 0}
+    thumbnailColor: {r: 1, g: 0.48490566, b: 0.6934984, a: 1}

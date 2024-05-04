@@ -585,7 +585,7 @@ MonoBehaviour:
   - {fileID: -4731438336562001402}
   - {fileID: 4135229692886101830}
   - {fileID: 2220871646205782247}
-  m_renderMode: 1
+  m_renderMode: 0
   m_depthSubmissionMode: 0
 --- !u!114 &-2513858183220632965
 MonoBehaviour:
@@ -660,7 +660,6 @@ MonoBehaviour:
   m_Name: DPadInteraction Standalone
   m_EditorClassIdentifier: Unity.XR.OpenXR:UnityEngine.XR.OpenXR.Features.Interactions:DPadInteraction
   m_enabled: 0
-  <failedInitialization>k__BackingField: 0
   nameUi: D-Pad Binding
   version: 0.0.1
   featureIdInternal: com.unity.openxr.feature.input.dpadinteraction
@@ -1392,7 +1391,6 @@ MonoBehaviour:
   m_Name: PalmPoseInteraction Standalone
   m_EditorClassIdentifier: Unity.XR.OpenXR:UnityEngine.XR.OpenXR.Features.Interactions:PalmPoseInteraction
   m_enabled: 0
-  <failedInitialization>k__BackingField: 0
   nameUi: Palm Pose
   version: 0.0.1
   featureIdInternal: com.unity.openxr.feature.input.palmpose
